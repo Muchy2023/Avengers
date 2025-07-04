@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../.vscode/cli"
+		},
+		{
+			"path": "../../websites"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
